@@ -61,7 +61,21 @@ edu-cove/
 
 ## 开发文档
 
-详细的编译和启动说明请查看 [docs/build-and-start.md](docs/build-and-start.md)
+详细的编译和启动说明请查看上方"快速开始"部分。
+
+## 部署到 GitHub Pages
+
+本项目使用 GitHub Actions 自动部署到 GitHub Pages。
+
+### 自动部署
+
+推送代码到 main 分支时会自动触发部署，也可以在 GitHub Actions 页面手动触发。
+
+工作流配置：`.github/workflows/deploy.yml`
+
+### 访问地址
+
+部署完成后访问：https://sweetcove.github.io/edu-cove/
 
 ## License
 
