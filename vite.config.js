@@ -5,4 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/edu-cove/', // GitHub Pages 仓库名称
+  publicDir: 'public', // 确保 public 目录被正确处理
 })

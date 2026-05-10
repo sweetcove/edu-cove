@@ -1,0 +1,242 @@
+{
+  "poems": [
+    {
+      "id": "maozedong-1",
+      "title": "沁园春·雪",
+      "author": "毛泽东",
+      "dynasty": "现代",
+      "createdYear": 1936,
+      "content": [
+        "北国风光，千里冰封，万里雪飘。",
+        "望长城内外，惟余莽莽；大河上下，顿失滔滔。",
+        "山舞银蛇，原驰蜡象，欲与天公试比高。",
+        "须晴日，看红装素裹，分外妖娆。",
+        "",
+        "江山如此多娇，引无数英雄竞折腰。",
+        "惜秦皇汉武，略输文采；唐宗宋祖，稍逊风骚。",
+        "一代天骄，成吉思汗，只识弯弓射大雕。",
+        "俱往矣，数风流人物，还看今朝。"
+      ],
+      "tags": ["诗词", "毛泽东", "沁园春", "雪景", "豪迈"],
+      "description": "这首词作于1936年2月，是毛泽东诗词的代表作之一。词中描绘了北国壮丽的雪景，抒发了诗人对祖国山河的热爱之情和革命豪情。"
+    }
+  ],
+  "knowledge": {
+    "categories": [
+      {
+        "id": "literature",
+        "name": "文学",
+        "icon": "📖",
+        "description": "文字的力量，思想的光芒",
+        "subcategories": [
+          {
+            "id": "poetry",
+            "name": "诗词歌赋",
+            "items": [
+              {
+                "id": "lit-poem-1",
+                "title": "沁园春·雪",
+                "author": "毛泽东",
+                "excerpt": "北国风光，千里冰封，万里雪飘...",
+                "tags": ["豪迈", "爱国", "经典"],
+                "views": 12500
+              },
+              {
+                "id": "lit-poem-2",
+                "title": "静夜思",
+                "author": "李白",
+                "excerpt": "床前明月光，疑是地上霜...",
+                "tags": ["思乡", "唐诗", "经典"],
+                "views": 15800
+              },
+              {
+                "id": "lit-poem-3",
+                "title": "水调歌头",
+                "author": "苏轼",
+                "excerpt": "明月几时有？把酒问青天...",
+                "tags": ["宋词", "哲理", "经典"],
+                "views": 13200
+              }
+            ]
+          },
+          {
+            "id": "prose",
+            "name": "散文随笔",
+            "items": [
+              {
+                "id": "lit-prose-1",
+                "title": "春",
+                "author": "朱自清",
+                "excerpt": "盼望着，盼望着，东风来了，春天的脚步近了...",
+                "tags": ["春天", "写景", "抒情"],
+                "views": 9800
+              },
+              {
+                "id": "lit-prose-2",
+                "title": "背影",
+                "author": "朱自清",
+                "excerpt": "我与父亲不相见已二年余了，我最不能忘记的是他的背影...",
+                "tags": ["亲情", "回忆", "经典"],
+                "views": 11200
+              }
+            ]
+          },
+          {
+            "id": "novel",
+            "name": "小说故事",
+            "items": [
+              {
+                "id": "lit-novel-1",
+                "title": "孔乙己",
+                "author": "鲁迅",
+                "excerpt": "鲁镇的酒店的格局，是和别处不同的...",
+                "tags": ["讽刺", "社会", "经典"],
+                "views": 14500
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "science",
+        "name": "科学",
+        "icon": "🔬",
+        "description": "探索真理，认知世界",
+        "subcategories": [
+          {
+            "id": "physics",
+            "name": "物理学",
+            "items": [
+              {
+                "id": "sci-phy-1",
+                "title": "相对论基础",
+                "author": "爱因斯坦",
+                "excerpt": "时间与空间的相对性，改变了人类对宇宙的认知...",
+                "tags": ["物理", "时空", "前沿"],
+                "views": 18900
+              },
+              {
+                "id": "sci-phy-2",
+                "title": "量子力学原理",
+                "author": "波尔",
+                "excerpt": "微观世界的奇妙规律，颠覆经典物理认知...",
+                "tags": ["量子", "微观", "创新"],
+                "views": 16700
+              }
+            ]
+          },
+          {
+            "id": "chemistry",
+            "name": "化学",
+            "items": [
+              {
+                "id": "sci-chem-1",
+                "title": "元素周期表",
+                "author": "门捷列夫",
+                "excerpt": "揭示元素性质的周期性变化规律...",
+                "tags": ["化学", "元素", "基础"],
+                "views": 14300
+              },
+              {
+                "id": "sci-chem-2",
+                "title": "有机化学导论",
+                "author": "化学学科",
+                "excerpt": "碳化合物的结构与反应，生命的基础...",
+                "tags": ["有机", "分子", "生命"],
+                "views": 12100
+              }
+            ]
+          },
+          {
+            "id": "biology",
+            "name": "生物学",
+            "items": [
+              {
+                "id": "sci-bio-1",
+                "title": "进化论",
+                "author": "达尔文",
+                "excerpt": "物竞天择，适者生存，生命演化的壮丽史诗...",
+                "tags": ["进化", "自然", "生命"],
+                "views": 15600
+              },
+              {
+                "id": "sci-bio-2",
+                "title": "DNA 与基因",
+                "author": "沃森和克里克",
+                "excerpt": "双螺旋结构，揭示生命的遗传密码...",
+                "tags": ["基因", "遗传", "分子"],
+                "views": 13800
+              }
+            ]
+          },
+          {
+            "id": "mathematics",
+            "name": "数学",
+            "items": [
+              {
+                "id": "sci-math-1",
+                "title": "微积分基础",
+                "author": "牛顿与莱布尼茨",
+                "excerpt": "变化与积累的数学，现代科学的基石...",
+                "tags": ["微积分", "数学", "基础"],
+                "views": 17200
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dailyRecommendation": {
+      "id": "daily-1",
+      "title": "论语·学而篇",
+      "author": "孔子及其弟子",
+      "category": "经典著作",
+      "excerpt": "学而时习之，不亦说乎？有朋自远方来，不亦乐乎？",
+      "description": "《论语》是儒家经典，记录了孔子及其弟子的言行，蕴含深刻的人生智慧。",
+      "tags": ["儒家", "哲学", "经典", "智慧"],
+      "date": "2026-05-10"
+    },
+    "rankings": [
+      {
+        "rank": 1,
+        "title": "相对论基础",
+        "author": "爱因斯坦",
+        "category": "物理学",
+        "views": 18900,
+        "trend": "up"
+      },
+      {
+        "rank": 2,
+        "title": "微积分基础",
+        "author": "牛顿与莱布尼茨",
+        "category": "数学",
+        "views": 17200,
+        "trend": "up"
+      },
+      {
+        "rank": 3,
+        "title": "量子力学原理",
+        "author": "波尔",
+        "category": "物理学",
+        "views": 16700,
+        "trend": "stable"
+      },
+      {
+        "rank": 4,
+        "title": "静夜思",
+        "author": "李白",
+        "category": "诗词歌赋",
+        "views": 15800,
+        "trend": "up"
+      },
+      {
+        "rank": 5,
+        "title": "进化论",
+        "author": "达尔文",
+        "category": "生物学",
+        "views": 15600,
+        "trend": "down"
+      }
+    ]
+  }
+}
